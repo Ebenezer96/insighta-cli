@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+insighta_cli/__init__.py
+insighta_cli/main.py
+insighta_cli.egg-info/PKG-INFO
+insighta_cli.egg-info/SOURCES.txt
+insighta_cli.egg-info/dependency_links.txt
+insighta_cli.egg-info/entry_points.txt
+insighta_cli.egg-info/requires.txt
+insighta_cli.egg-info/top_level.txt
